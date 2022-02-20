@@ -1,0 +1,15 @@
+C:\Users\slabo\source\repos\proba\proba\bin\Debug\proba.exe.config
+C:\Users\slabo\source\repos\proba\proba\bin\Debug\proba.exe
+C:\Users\slabo\source\repos\proba\proba\bin\Debug\proba.pdb
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.csprojAssemblyReference.cache
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\MainWindow.g.cs
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\App.g.cs
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba_MarkupCompile.cache
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba_MarkupCompile.lref
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\MainWindow.baml
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.g.resources
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.exe
+C:\Users\slabo\source\repos\proba\proba\obj\Debug\proba.pdb
